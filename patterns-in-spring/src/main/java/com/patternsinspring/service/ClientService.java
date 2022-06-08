@@ -1,4 +1,5 @@
 package com.patternsinspring.service;
+import com.patternsinspring.model.Client;;
 
 public interface ClientService {
     Iterable<Client> searchAll();
